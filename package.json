@@ -1,6 +1,6 @@
 {
-  "homepage": "http://riojuliian.github.io/",
-  "name": "riojuliian.github.io",
+  "homepage": "http://riojuliian.github.io/developerFolio",
+  "name": "developerFolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
